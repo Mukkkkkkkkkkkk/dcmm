@@ -1,0 +1,22 @@
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+.custom-select {
+  appearance: none;
+  background: transparent;
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 100%;
+  cursor: pointer;
+}
+
+/* Style the select options */
+.custom-select option {
+  background: #fff;
+  color: #333;
+  padding: 8px;
+}

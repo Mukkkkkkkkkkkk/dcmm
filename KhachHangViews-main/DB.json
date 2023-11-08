@@ -1,0 +1,674 @@
+{
+  "products": [
+    {
+      "ten": "ten 1",
+      "maSp": "9",
+      "moTa": "Voluptas eveniet totam veritatis itaque. Minima modi iure fugit doloremque necessitatibus quis dolorum accusantium. Ipsa illum eaque.",
+      "hang": "hang 1",
+      "dong": "dong 1",
+      "soLuong": 94,
+      "mauSac": [
+        {
+          "giaTri": "red",
+          "idMauSac": 1,
+          "kichThuoc": [
+            {
+              "giaTri": "41",
+              "idKichThuoc": 1
+            },
+            {
+              "giaTri": "43",
+              "idKichThuoc": 2
+            },
+            {
+              "giaTri": "30",
+              "idKichThuoc": 3
+            }
+          ]
+        },
+        {
+          "giaTri": "blue",
+          "idMauSac": 2,
+          "kichThuoc": [
+            {
+              "giaTri": "31",
+              "idKichThuoc": 4
+            },
+            {
+              "giaTri": "76",
+              "idKichThuoc": 5
+            },
+            {
+              "giaTri": "23",
+              "idKichThuoc": 6
+            }
+          ]
+        },
+        {
+          "giaTri": "pink",
+          "idMauSac": 3,
+          "kichThuoc": [
+            {
+              "giaTri": "45",
+              "idKichThuoc": 7
+            },
+            {
+              "giaTri": "65",
+              "idKichThuoc": 8
+            },
+            {
+              "giaTri": "54",
+              "idKichThuoc": 9
+            }
+          ]
+        }
+      ],
+      "giamGia": "giamGia 1",
+      "tinhTrang": "tinhTrang 1",
+      "hinhAnh": [
+        {
+          "url": "../images/shoes/shoe-1-1.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-1-2.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-1-3.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-1-4.avif"
+        }
+      ],
+      "giaBan": 13,
+      "id": "1"
+    },
+    {
+      "ten": "ten 2",
+      "maSp": "6",
+      "moTa": "Laudantium dolore consectetur est porro saepe quos ullam architecto laboriosam. Quia laboriosam perferendis. Rerum dicta a iure eaque vel exercitationem debitis autem rerum. Tempore aspernatur hic non.",
+      "hang": "hang 2",
+      "dong": "dong 2",
+      "soLuong": 32,
+      "mauSac": [
+        {
+          "giaTri": "red",
+          "idMauSac": 1,
+          "kichThuoc": [
+            {
+              "giaTri": "41",
+              "idKichThuoc": 1
+            },
+            {
+              "giaTri": "43",
+              "idKichThuoc": 2
+            },
+            {
+              "giaTri": "30",
+              "idKichThuoc": 3
+            }
+          ]
+        },
+        {
+          "giaTri": "blue",
+          "idMauSac": 2,
+          "kichThuoc": [
+            {
+              "giaTri": "31",
+              "idKichThuoc": 4
+            },
+            {
+              "giaTri": "76",
+              "idKichThuoc": 5
+            },
+            {
+              "giaTri": "23",
+              "idKichThuoc": 6
+            }
+          ]
+        },
+        {
+          "giaTri": "pink",
+          "idMauSac": 3,
+          "kichThuoc": [
+            {
+              "giaTri": "45",
+              "idKichThuoc": 7
+            },
+            {
+              "giaTri": "65",
+              "idKichThuoc": 8
+            },
+            {
+              "giaTri": "54",
+              "idKichThuoc": 9
+            }
+          ]
+        }
+      ],
+      "giamGia": "giamGia 2",
+      "tinhTrang": "Giảm giá",
+      "hinhAnh": [
+        {
+          "url": "../images/shoes/shoe-2-1.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-2-2.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-2-3.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-2-4.avif"
+        }
+      ],
+      "giaBan": 42,
+      "id": "2"
+    },
+    {
+      "ten": "ten 3",
+      "maSp": "3",
+      "moTa": "Itaque iste est nihil cum consectetur temporibus quisquam sequi. Exercitationem quaerat saepe repudiandae vitae soluta dolores laboriosam veniam. Aut illum reprehenderit qui animi.",
+      "hang": "hang 3",
+      "dong": "dong 3",
+      "soLuong": 34,
+      "mauSac": [
+        {
+          "giaTri": "red",
+          "idMauSac": 1,
+          "kichThuoc": [
+            {
+              "giaTri": "41",
+              "idKichThuoc": 1
+            },
+            {
+              "giaTri": "43",
+              "idKichThuoc": 2
+            },
+            {
+              "giaTri": "30",
+              "idKichThuoc": 3
+            }
+          ]
+        },
+        {
+          "giaTri": "blue",
+          "idMauSac": 2,
+          "kichThuoc": [
+            {
+              "giaTri": "31",
+              "idKichThuoc": 4
+            },
+            {
+              "giaTri": "76",
+              "idKichThuoc": 5
+            },
+            {
+              "giaTri": "23",
+              "idKichThuoc": 6
+            }
+          ]
+        },
+        {
+          "giaTri": "pink",
+          "idMauSac": 3,
+          "kichThuoc": [
+            {
+              "giaTri": "45",
+              "idKichThuoc": 7
+            },
+            {
+              "giaTri": "65",
+              "idKichThuoc": 8
+            },
+            {
+              "giaTri": "54",
+              "idKichThuoc": 9
+            }
+          ]
+        }
+      ],
+      "giamGia": "31%",
+      "tinhTrang": "tinhTrang 3",
+      "hinhAnh": [
+        {
+          "url": "../images/shoes/shoe-3-1.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-3-2.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-3-3.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-3-4.avif"
+        }
+      ],
+      "giaBan": 68,
+      "id": "3"
+    },
+    {
+      "ten": "ten 4",
+      "maSp": "3",
+      "moTa": "Aliquid eaque veniam accusantium in. Facilis minima eum iure architecto iste ducimus beatae. Qui repellat expedita sequi aperiam animi distinctio animi ullam voluptatem.",
+      "hang": "hang 4",
+      "dong": "dong 4",
+      "soLuong": 50,
+      "mauSac": [
+        {
+          "giaTri": "red",
+          "idMauSac": 1,
+          "kichThuoc": [
+            {
+              "giaTri": "41",
+              "idKichThuoc": 1
+            },
+            {
+              "giaTri": "43",
+              "idKichThuoc": 2
+            },
+            {
+              "giaTri": "30",
+              "idKichThuoc": 3
+            }
+          ]
+        },
+        {
+          "giaTri": "blue",
+          "idMauSac": 2,
+          "kichThuoc": [
+            {
+              "giaTri": "31",
+              "idKichThuoc": 4
+            },
+            {
+              "giaTri": "76",
+              "idKichThuoc": 5
+            },
+            {
+              "giaTri": "23",
+              "idKichThuoc": 6
+            }
+          ]
+        },
+        {
+          "giaTri": "pink",
+          "idMauSac": 3,
+          "kichThuoc": [
+            {
+              "giaTri": "45",
+              "idKichThuoc": 7
+            },
+            {
+              "giaTri": "65",
+              "idKichThuoc": 8
+            },
+            {
+              "giaTri": "54",
+              "idKichThuoc": 9
+            }
+          ]
+        }
+      ],
+      "giamGia": "giamGia 4",
+      "tinhTrang": "tinhTrang 4",
+      "hinhAnh": [
+        {
+          "url": "../images/shoes/shoe-4-1.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-4-2.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-4-3.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-4-4.avif"
+        }
+      ],
+      "giaBan": 18,
+      "id": "4"
+    },
+    {
+      "ten": "ten 5",
+      "maSp": "7",
+      "moTa": "Autem laudantium quae dicta ea eius qui earum laborum consequuntur. Non sint illum fugit dolorum nemo quos. Ullam atque iure neque quia modi.",
+      "hang": "hang 5",
+      "dong": "dong 5",
+      "soLuong": 79,
+      "mauSac": [
+        {
+          "giaTri": "red",
+          "idMauSac": 1,
+          "kichThuoc": [
+            {
+              "giaTri": "41",
+              "idKichThuoc": 1
+            },
+            {
+              "giaTri": "43",
+              "idKichThuoc": 2
+            },
+            {
+              "giaTri": "30",
+              "idKichThuoc": 3
+            }
+          ]
+        },
+        {
+          "giaTri": "blue",
+          "idMauSac": 2,
+          "kichThuoc": [
+            {
+              "giaTri": "31",
+              "idKichThuoc": 4
+            },
+            {
+              "giaTri": "76",
+              "idKichThuoc": 5
+            },
+            {
+              "giaTri": "23",
+              "idKichThuoc": 6
+            }
+          ]
+        },
+        {
+          "giaTri": "pink",
+          "idMauSac": 3,
+          "kichThuoc": [
+            {
+              "giaTri": "45",
+              "idKichThuoc": 7
+            },
+            {
+              "giaTri": "65",
+              "idKichThuoc": 8
+            },
+            {
+              "giaTri": "54",
+              "idKichThuoc": 9
+            }
+          ]
+        }
+      ],
+      "giamGia": "giamGia 5",
+      "tinhTrang": "tinhTrang 5",
+      "hinhAnh": [
+        {
+          "url": "../images/shoes/shoe-5-1.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-5-2.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-5-3.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-5-4.avif"
+        }
+      ],
+      "giaBan": 69,
+      "id": "5"
+    },
+    {
+      "ten": "ten 6",
+      "maSp": "6",
+      "moTa": "Rem libero qui. In explicabo asperiores maxime. Laboriosam blanditiis quia distinctio quia. Consequatur placeat occaecati.",
+      "hang": "hang 6",
+      "dong": "dong 6",
+      "soLuong": 87,
+      "mauSac": [
+        {
+          "giaTri": "red",
+          "idMauSac": 1,
+          "kichThuoc": [
+            {
+              "giaTri": "41",
+              "idKichThuoc": 1
+            },
+            {
+              "giaTri": "43",
+              "idKichThuoc": 2
+            },
+            {
+              "giaTri": "30",
+              "idKichThuoc": 3
+            }
+          ]
+        },
+        {
+          "giaTri": "blue",
+          "idMauSac": 2,
+          "kichThuoc": [
+            {
+              "giaTri": "31",
+              "idKichThuoc": 4
+            },
+            {
+              "giaTri": "76",
+              "idKichThuoc": 5
+            },
+            {
+              "giaTri": "23",
+              "idKichThuoc": 6
+            }
+          ]
+        },
+        {
+          "giaTri": "pink",
+          "idMauSac": 3,
+          "kichThuoc": [
+            {
+              "giaTri": "45",
+              "idKichThuoc": 7
+            },
+            {
+              "giaTri": "65",
+              "idKichThuoc": 8
+            },
+            {
+              "giaTri": "54",
+              "idKichThuoc": 9
+            }
+          ]
+        }
+      ],
+      "giamGia": "giamGia 6",
+      "tinhTrang": "tinhTrang 6",
+      "hinhAnh": [
+        {
+          "url": "../images/shoes/shoe-7-1.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-7-2.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-7-3.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-7-4.avif"
+        }
+      ],
+      "giaBan": 54,
+      "id": "6"
+    },
+    {
+      "ten": "ten 7",
+      "maSp": "1",
+      "moTa": "Voluptatum facilis nulla odio accusantium rem laborum. Dolore perferendis ipsum. Quasi adipisci fuga ducimus.",
+      "hang": "hang 7",
+      "dong": "dong 7",
+      "soLuong": 70,
+      "mauSac": [
+        {
+          "giaTri": "red",
+          "idMauSac": 1,
+          "kichThuoc": [
+            {
+              "giaTri": "41",
+              "idKichThuoc": 1
+            },
+            {
+              "giaTri": "43",
+              "idKichThuoc": 2
+            },
+            {
+              "giaTri": "30",
+              "idKichThuoc": 3
+            }
+          ]
+        },
+        {
+          "giaTri": "blue",
+          "idMauSac": 2,
+          "kichThuoc": [
+            {
+              "giaTri": "31",
+              "idKichThuoc": 4
+            },
+            {
+              "giaTri": "76",
+              "idKichThuoc": 5
+            },
+            {
+              "giaTri": "23",
+              "idKichThuoc": 6
+            }
+          ]
+        },
+        {
+          "giaTri": "pink",
+          "idMauSac": 3,
+          "kichThuoc": [
+            {
+              "giaTri": "45",
+              "idKichThuoc": 7
+            },
+            {
+              "giaTri": "65",
+              "idKichThuoc": 8
+            },
+            {
+              "giaTri": "54",
+              "idKichThuoc": 9
+            }
+          ]
+        }
+      ],
+      "giamGia": "giamGia 7",
+      "tinhTrang": "tinhTrang 7",
+      "hinhAnh": [
+        {
+          "url": "../images/shoes/shoe-6-1.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-6-2.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-6-3.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-6-4.avif"
+        }
+      ],
+      "giaBan": 93,
+      "id": "7"
+    },
+    {
+      "ten": "ten 8",
+      "maSp": "9",
+      "moTa": "Sequi nulla veritatis praesentium architecto omnis natus iste perspiciatis. Repellat distinctio sunt vitae. Ut laborum quibusdam perspiciatis rerum labore cumque animi perferendis veniam. Similique quidem minima maiores repellendus. Cupiditate nemo saepe suscipit veniam voluptatem alias voluptatibus fugit. Repudiandae libero optio a commodi facilis voluptates harum illo assumenda.",
+      "hang": "hang 8",
+      "dong": "dong 8",
+      "soLuong": 72,
+      "mauSac": [
+        {
+          "giaTri": "red",
+          "idMauSac": 1,
+          "kichThuoc": [
+            {
+              "giaTri": "41",
+              "idKichThuoc": 1
+            },
+            {
+              "giaTri": "43",
+              "idKichThuoc": 2
+            },
+            {
+              "giaTri": "30",
+              "idKichThuoc": 3
+            }
+          ]
+        },
+        {
+          "giaTri": "blue",
+          "idMauSac": 2,
+          "kichThuoc": [
+            {
+              "giaTri": "31",
+              "idKichThuoc": 4
+            },
+            {
+              "giaTri": "76",
+              "idKichThuoc": 5
+            },
+            {
+              "giaTri": "23",
+              "idKichThuoc": 6
+            }
+          ]
+        },
+        {
+          "giaTri": "pink",
+          "idMauSac": 3,
+          "kichThuoc": [
+            {
+              "giaTri": "45",
+              "idKichThuoc": 7
+            },
+            {
+              "giaTri": "65",
+              "idKichThuoc": 8
+            },
+            {
+              "giaTri": "54",
+              "idKichThuoc": 9
+            }
+          ]
+        }
+      ],
+      "giamGia": "giamGia 8",
+      "tinhTrang": "tinhTrang 8",
+      "hinhAnh": [
+        {
+          "url": "../images/shoes/shoe-8-1.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-8-2.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-8-3.avif"
+        },
+        {
+          "url": "../images/shoes/shoe-8-4.avif"
+        }
+      ],
+      "giaBan": 75,
+      "id": "8"
+    }
+  ],
+  "cart": [
+    {
+      "soLuong": 10,
+      "id": "1"
+    },
+    {
+      "soLuong": 39,
+      "id": "2"
+    },
+    {
+      "soLuong": 41,
+      "id": "3"
+    }
+  ]
+}

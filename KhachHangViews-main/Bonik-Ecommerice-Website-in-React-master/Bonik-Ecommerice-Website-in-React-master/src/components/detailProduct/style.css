@@ -1,0 +1,72 @@
+.box img {
+  width: 100%;
+}
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght@400;700&family=Montserrat:wght@400;700&family=Nunito:wght@400;700&family=Lato:wght@400;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: rgb(0, 69, 52);
+}
+p {
+  line-height: 2;
+}
+
+.nav-link {
+  color: rgb(0, 69, 52);
+  border-radius: 10px;
+  white-space: nowrap;
+  transition: 1000ms;
+}
+
+.nav-link:hover {
+  background-color: rgb(243, 240, 240);
+  border-radius: 50px;
+  white-space: nowrap;
+  transition: 500ms;
+  animation: rainbow 5s linear infinite;
+}
+.fw-bolder {
+  font-size: 3vm;
+}
+
+.pagination {
+  color: rgb(0, 69, 52);
+}
+.card {
+  height: 420px;
+  overflow: hidden;
+}
+
+.shopBtn {
+  opacity: 0;
+  filter: blur(2px);
+  transition: all 0.5s;
+  transform: scale(0.8) translatex(-100px);
+}
+.card:hover .shopBtn {
+  opacity: 1;
+  transform: translatex(0) scale(1);
+  filter: blur(0);
+  transition: all 0.5s;
+}
+.dashed-hr {
+  border-top: 2px dashed black;
+}
+
+.content-right {
+  text-align: left;
+}
+
+.font-monospace {
+  color: rgb(0, 69, 52);
+}
+.bx {
+  color: rgb(0, 69, 52);
+  font-size: larger;
+}
+.show {
+  filter: blur(0);
+  opacity: 1;
+  transform: translateX(0) scale(1);
+  transition: all 1.5s;
+}

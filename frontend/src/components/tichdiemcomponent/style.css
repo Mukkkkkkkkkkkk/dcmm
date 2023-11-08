@@ -1,0 +1,14 @@
+
+/* TichDiemComponent.css */
+.popup-entering,
+.popup-exiting,
+.popup-exited {
+    opacity: 0;
+    display: none;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.popup-entered {
+    opacity: 1;
+    display: block;
+}

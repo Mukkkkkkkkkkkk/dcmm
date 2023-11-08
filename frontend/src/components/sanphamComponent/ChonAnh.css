@@ -1,0 +1,115 @@
+.image-uploader {
+    align: left;
+    border-color: red;
+}
+
+.upload-btn {
+
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: white;
+    color: red;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-align-last: center;
+    width: 120px;
+    height: 120px;
+    padding-top: 40px;
+}
+
+.upload-btn:hover {
+    background-color: #45a049;
+}
+
+#file-input {
+    display: none;
+}
+
+.selected-images {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.selected-images img {
+    max-width: 100px;
+    max-height: 100px;
+    margin: 5px;
+}
+
+.image-box {
+    position: relative;
+    width: 120px;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    float: left;
+    padding:0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 4px;
+}
+
+.image-box img {
+    width: 100px;
+    height: 100px;
+    objectFit: cover;
+    objectPosition: center
+}
+
+.delete-button {
+    position: absolute;
+    top: 13%;
+    left: 87%;
+    transform: translate(-50%, -50%);
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 4px 8px;
+    border: none;
+    cursor: pointer;
+    opacity: 0; /* Nút ẩn ban đầu */
+    transition: opacity 0.3s ease; /* Hiệu ứng chuyển động mượt mà */
+}
+
+.image-box:hover .delete-button {
+    opacity: 1; /* Hiển thị nút khi hover */
+}
+
+.tr1 {
+    height: 75px;/* Đặt chiều cao mong muốn cho mỗi hàng */
+    vertical-lign: top; /* Chỉ định vị trí dọc của phần tử */
+    line-height: 1.5
+}
+.th1 {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.td1 {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    vertical-align: auto; /* Chỉ định vị trí dọc của phần tử */
+    line-height: 1.5; /* Chiều cao dòng của phần tử */
+}
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    vertical-align: top; /* Chỉ định vị trí dọc của phần tử */
+    line-height: 1.5; /* Chiều cao dòng của phần tử */
+}
+.ellipsis {
+    white-space: nowrap;         /* Ngăn chữ xuống dòng */
+    overflow: hidden;            /* Ẩn phần chữ vượt ra ngoài khối chứa */
+    text-overflow: ellipsis;     /* Thêm dấu "..." khi chữ vượt quá khối chứa */
+    width: 200px;                /* Chiều rộng của khối chứa */
+    border: 1px solid #ddd;      /* Để hiển thị rõ ràng khối chứa */
+}

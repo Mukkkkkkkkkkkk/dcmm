@@ -1,0 +1,21 @@
+.card {
+  overflow: hidden;
+
+  box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;
+}
+
+.shopBtn {
+  opacity: 0;
+  filter: blur(2px);
+  transition: all 0.5s;
+  transform: scale(0.8) translatex(-100px);
+}
+.card:hover .shopBtn {
+  opacity: 1;
+  transform: translatex(0) scale(1);
+  filter: blur(0);
+  transition: all 0.5s;
+}
+.col-3 {
+  padding: 0;
+}

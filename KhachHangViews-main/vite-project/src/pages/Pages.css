@@ -1,0 +1,13 @@
+/* Đặt chiều cao cố định cho slider */
+.banner-slider {
+    height: 450px; /* Điều chỉnh theo nhu cầu của bạn */
+
+  }
+  
+  /* Chỉnh kích thước hình ảnh */
+  .banner-image {
+    height: 450px; /* Điều chỉnh theo nhu cầu của bạn */
+    width: 1280px;
+    object-fit: initial;
+  }
+  
